@@ -172,7 +172,7 @@ img {
  {
   display: grid;
   padding-top: 2%;
-  margin-left: 11%;
+  margin-left: 2%;
   margin-right: 10%;
   grid-template-columns: repeat(1,400px);  /* 2 columns */
   grid-template-rows: repeat(1,200x); /* 2 rows  */
