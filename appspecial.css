@@ -171,13 +171,13 @@ body{
     
     }
     .aboutmaindiv {
-        margin-top: 45%;
-        width: 95%;
+        margin-top: 10%;
+        width: 98%;
         overflow-y: auto;
     }
     .pricingmaindiv {
-        margin-top: 45%;
-        width: 95%;
+        margin-top: 20%;
+        width: 97%;
         font-size: 1em;
         overflow-y: auto;
     }
@@ -186,10 +186,6 @@ body{
         }
         .navbar-nav {
             margin-left: 70%;
-        }
-        .pricingmainbody , .aboutmainbody {
-            height: 100%;
-            
         }
         .priceli {
             font-weight: bold;
