@@ -170,14 +170,25 @@ body{
         padding: .3em;
     
     }
-    .aboutmaindiv, .pricingmaindiv {
+    .aboutmaindiv {
         margin-top: 45%;
-        overflow: scroll;
+        overflow-y: scroll;
+    }
+    .pricingmaindiv {
+        margin-top: 50%;
+        overflow-y: scroll;
     }
     .contactmaindiv .contactp .contacta {
             font-size: .8em;
         }
         .navbar-nav {
             margin-left: 70%;
+        }
+        .pricingmainbody , .aboutmainbody {
+            overflow-y: scroll;
+        }
+        .priceli {
+            font-weight: bold;
+            text-shadow: 1px 1px 1px black;
         }
 }
