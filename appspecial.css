@@ -172,10 +172,9 @@ body{
     }
     .aboutmaindiv, .pricingmaindiv {
         margin-top: 45%;
-        overflow: auto;
-        text-align:justify;
+        overflow: scroll;
     }
-        .contacta {
+    .contactmaindiv .contactp .contacta {
             font-size: .8em;
         }
         .navbar-nav {
