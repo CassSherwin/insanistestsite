@@ -173,11 +173,14 @@ body{
     .aboutmaindiv {
         margin-top: 45%;
         height: 100%;
+        width: 98%;
         overflow-y: auto;
     }
     .pricingmaindiv {
         margin-top: 48%;
         height: 100%;
+        width: 97%;
+        font-size: 1em;
         overflow-y: auto;
     }
     .contactmaindiv .contactp .contacta {
