@@ -171,12 +171,12 @@ body{
     
     }
     .aboutmaindiv {
-        margin-top: 10%;
+      
         width: 98%;
         overflow-y: auto;
     }
     .pricingmaindiv {
-        margin-top: 20%;
+      
         width: 97%;
         font-size: 1em;
         overflow-y: auto;
