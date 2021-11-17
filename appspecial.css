@@ -194,4 +194,7 @@ body{
         .pricep, .aboutp {
             font-size: 1.2em;
         }
+        .priceul {
+            padding-bottom: 1%;
+        }
 }
