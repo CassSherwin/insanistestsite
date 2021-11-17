@@ -48,6 +48,7 @@ body{
     width: 80%;
     text-align: center;
     font-size: 1em;
+    overflow:auto;
 }
 .contactmaindiv {
     background-color: black;
@@ -72,6 +73,7 @@ body{
     transform: translate(-50%, -50%);
     width: 80%;
     text-align: center;
+    overflow:auto;
 }
 .titlep {
     font-size: 1.5em;
@@ -170,4 +172,11 @@ body{
     }
     .aboutmaindiv, .pricingmaindiv {
         margin-top: 45%;
+    }
+        .contacta {
+            font-size: 1.2em;
+        }
+        .navbar-nav {
+            margin-left: 70%;
+        }
 }

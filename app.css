@@ -187,6 +187,9 @@ img {
     font-size: 1em;
 }
 .maindiv {
-    margin-top: 65%;
+    margin-top: 45%;
+}
+.navbar-nav {
+    margin-left: 70%;
 }
   }
