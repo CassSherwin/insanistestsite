@@ -197,4 +197,7 @@ body{
             font-weight: bold;
             text-shadow: 1px 1px 1px black;
         }
+        .pricep, .aboutp {
+            font-size: 1em;
+        }
 }
