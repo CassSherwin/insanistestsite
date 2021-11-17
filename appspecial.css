@@ -172,10 +172,12 @@ body{
     }
     .aboutmaindiv {
         margin-top: 45%;
+        height: 100%;
         overflow-y: scroll;
     }
     .pricingmaindiv {
-        margin-top: 50%;
+        margin-top: 55%;
+        height: 100%;
         overflow-y: scroll;
     }
     .contactmaindiv .contactp .contacta {
