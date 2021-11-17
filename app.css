@@ -183,4 +183,10 @@ img {
   width: 100%;
   height: 97%;
 }
+.title {
+    font-size: 1em;
+}
+.maindiv {
+    margin-top: 65%;
+}
   }

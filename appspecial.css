@@ -157,3 +157,17 @@ body{
         color: blue;
         
       }
+
+
+
+
+
+      @media screen and (max-width: 600px) {
+      .contactp {
+        font-size: 1.5em;
+        padding: .3em;
+    
+    }
+    .aboutmaindiv, .pricingmaindiv {
+        margin-top: 45%;
+}
