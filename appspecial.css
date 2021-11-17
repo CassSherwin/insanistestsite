@@ -176,7 +176,7 @@ body{
         overflow-y: scroll;
     }
     .pricingmaindiv {
-        margin-top: 55%;
+        margin-top: 50%;
         height: 100%;
         overflow-y: scroll;
     }
@@ -187,6 +187,7 @@ body{
             margin-left: 70%;
         }
         .pricingmainbody , .aboutmainbody {
+            height: 100%;
             overflow-y: scroll;
         }
         .priceli {
