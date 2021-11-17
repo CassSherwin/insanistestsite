@@ -96,6 +96,10 @@ hr {
     color: aqua;
     
   } 
+  .stitle {
+    font-size: 1.5em;
+   
+}
   
 
   .custom-toggler .navbar-toggler-icon {
